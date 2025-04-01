@@ -3,4 +3,4 @@ Assignment repository for UNT CSCE1015
 ## EUID
 as3893
 ## Favorite Linux Command
-$$ls
+lsd
